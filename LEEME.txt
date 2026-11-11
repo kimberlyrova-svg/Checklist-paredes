@@ -1,0 +1,9 @@
+GRUPO PAREDES — CHECKLIST DIARIO DE CAMIONES
+
+1. Subir index.html, sw.js y manifest.webmanifest juntos a un sitio HTTPS (por ejemplo GitHub Pages).
+2. Abrir el enlace con internet una primera vez, instalar o añadir a pantalla de inicio y probar sin conexión.
+3. Crear usuario local por cada conductor. Cada celular conserva sus propios registros.
+4. Descargar respaldo JSON diariamente; conservarlo fuera del teléfono.
+5. La sincronización entre celulares NO está incluida todavía.
+6. No eliminar datos del sitio ni usar modo incógnito.
+7. La aplicación es una primera versión piloto: verificar las preguntas y el flujo antes de uso operativo.
